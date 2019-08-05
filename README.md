@@ -16,3 +16,6 @@ arm-developer：https://www.arm.com/products/silicon-ip-cpu/machine-learning/arm
 
 ArmNN在x86_64系统下，进行arm_64的编译
 https://github.com/ARM-software/armnn/blob/branches/armnn_19_05/BuildGuideCrossCompilation.md
+
+
+https://blog.csdn.net/coinv2014/article/details/83582747#1_SCons_13
