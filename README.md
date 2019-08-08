@@ -18,4 +18,8 @@ ArmNN在x86_64系统下，进行arm_64的编译
 https://github.com/ARM-software/armnn/blob/branches/armnn_19_05/BuildGuideCrossCompilation.md
 
 
+ArmNN的Tensorflow配置
+https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/how-to-guides/configuring-the-arm-nn-sdk-build-environment-for-tensorflow/building-the-environment
+
+
 https://blog.csdn.net/coinv2014/article/details/83582747#1_SCons_13
