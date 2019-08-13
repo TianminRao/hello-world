@@ -23,3 +23,6 @@ https://developer.arm.com/solutions/machine-learning-on-arm/developer-material/h
 
 
 https://blog.csdn.net/coinv2014/article/details/83582747#1_SCons_13
+
+
+https://developer.arm.com/tools-and-software/graphics-and-gaming/mali-drivers/midgard-kernel
